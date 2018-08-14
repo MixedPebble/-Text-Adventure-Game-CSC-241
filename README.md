@@ -22,5 +22,7 @@ the game ends with the PC in disgrace. If the “respect” rises above 80, the 
 [Full Description](http://cs.oswego.edu/~alex/teaching/csc241/hw/project.pdf) 
 
 To Run:
+
 1: No input is needed to run.
+
 2: The XML file needed to build the world is provided and called "world.xml". This will be prompted for when the program is run.
