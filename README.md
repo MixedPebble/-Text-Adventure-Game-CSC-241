@@ -19,6 +19,8 @@ The PC has a “respect” parameter, which represents how much all other creatu
 The initial value of this parameter upon game startup is 40. If the “respect” parameter of the PC falls to 0 or below,
 the game ends with the PC in disgrace. If the “respect” rises above 80, the game ends with the PC in praise.
 
+[Full Description](http://cs.oswego.edu/~alex/teaching/csc241/hw/project.pdf) 
+
 To Run:
 1: No input is needed to run.
 2: The XML file needed to build the world is provided and called "world.xml". This will be prompted for when the program is run.
